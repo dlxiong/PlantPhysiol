@@ -27,22 +27,28 @@
   - 施一公：[生命的本质和生命的极限](https://www.bilibili.com/video/BV1es411A7EW/)
   - Robert Waldinger: [What makes a good life? Lessons from the longest study on happiness](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness?language=en)
 
-
 ### 植物水分生理
+
+- 教材内容争议
+  - 朱建军等关于水分相关内容的讨论 [PDF](attachments/植物水分生理中几个争议性问题的理论分析_朱建军.pdf)
+  - 潘瑞炽版教材关于水分相关内容的改版说明 [PDF](attachments/原潘瑞炽《植物生理学》教材新版(第8版)第一章的改写说明.pdf)
 
 
 ### 植物营养生理
 
 ### 植物的光合作用
- 
+
+- 教材内容争议
+  - 康宗利等关于蒸腾指标定义不妥的讨论 [PDF](attachements/关于蒸腾作用指标的探讨.pdf)
+
 ### 同化物的体内运输与分配
- 
+
 ### 植物的呼吸作用
- 
+
 ### 植物生长物质
- 
+
 ### 植物生长生理
- 
+
 ### 植物生殖生理
 
 ### 植物的成熟和衰老生理
@@ -50,6 +56,9 @@
 ### 植物逆境生理
 
 ### 其他
+
+- 教材
+  - 江西农业大学程建峰关于国内外教材特征比较 [PDF](attachments/国内外《植物生理学》高校教材的编撰简况及特点_程建峰.pdf)
 
 
 
